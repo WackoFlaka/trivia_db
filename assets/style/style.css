@@ -1,1 +1,32 @@
 /* BASIC STYLES HERE */
+
+body {
+    background-color: #00236A;
+}
+
+.q-card {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 80%;
+    height: 200px;
+    background-color: black;
+    border: 2px solid white;
+    border-radius: 20px;
+    user-select: none;
+    color: white;
+}
+
+.anwser-card {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 80%;
+    height: 200px;
+    background-color: black;
+    border: 2px solid white;
+    border-radius: 20px;
+    cursor: pointer;
+    color: white;
+    text-align: center;
+}
